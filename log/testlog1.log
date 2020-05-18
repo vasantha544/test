@@ -1,0 +1,23 @@
+2020-05-08 23:21:08,119 [main] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-08 23:27:37,636 [main] WARN com.traveltek.TestCases.SampleGet - demo
+2020-05-08 23:27:37,639 [main] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-08 23:42:21,963 [main] WARN com.traveltek.TestCases.SampleGet - demo
+2020-05-08 23:42:21,965 [main] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-08 23:42:23,174 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-08 23:42:23,181 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-08 23:42:23,451 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 15:51:33,754 [main] WARN com.traveltek.TestCases.SampleGet - demo
+2020-05-12 15:51:33,760 [main] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-12 15:51:36,522 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 15:51:37,369 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 15:51:37,379 [main] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 16:12:32,758 [TestNG-tests-1] WARN com.traveltek.TestCases.SampleGet - demo
+2020-05-12 16:12:32,765 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-12 16:12:35,853 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 16:12:35,889 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 16:12:36,735 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 17:30:46,787 [TestNG-tests-1] WARN com.traveltek.TestCases.SampleGet - demo
+2020-05-12 17:30:46,798 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - Framework initilized
+2020-05-12 17:30:49,330 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 17:30:49,370 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 17:30:49,879 [TestNG-tests-1] INFO com.traveltek.TestCases.SampleGet - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@

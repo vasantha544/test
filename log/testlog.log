@@ -1,0 +1,23 @@
+2020-05-08 23:21:08,119 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-08 23:27:37,636 - com.traveltek.TestCases.SampleGet -WARN - demo
+2020-05-08 23:27:37,639 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-08 23:42:21,963 - com.traveltek.TestCases.SampleGet -WARN - demo
+2020-05-08 23:42:21,965 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-08 23:42:23,174 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-08 23:42:23,181 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-08 23:42:23,451 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 15:51:33,754 - com.traveltek.TestCases.SampleGet -WARN - demo
+2020-05-12 15:51:33,760 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-12 15:51:36,522 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 15:51:37,369 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 15:51:37,379 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 16:12:32,758 - com.traveltek.TestCases.SampleGet -WARN - demo
+2020-05-12 16:12:32,765 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-12 16:12:35,853 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 16:12:35,889 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 16:12:36,735 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@
+2020-05-12 17:30:46,787 - com.traveltek.TestCases.SampleGet -WARN - demo
+2020-05-12 17:30:46,798 - com.traveltek.TestCases.SampleGet -INFO - Framework initilized
+2020-05-12 17:30:49,330 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the status code  @@@@@@@@@@@
+2020-05-12 17:30:49,370 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Body @@@@@@@@@@@
+2020-05-12 17:30:49,879 - com.traveltek.TestCases.SampleGet -INFO - @@@@@@@@@@@  Checking the Response Time  @@@@@@@@@@@

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="BackendTesting" duration-ms="3408" started-at="2020-05-12T16:30:46Z" finished-at="2020-05-12T16:30:49Z">
+    <groups>
+    </groups>
+    <test name="Niki Beckend Services" duration-ms="3408" started-at="2020-05-12T16:30:46Z" finished-at="2020-05-12T16:30:49Z">
+      <class name="com.traveltek.TestCases.SampleGet">
+        <test-method status="PASS" signature="sampleGetCall()[pri:0, instance:com.traveltek.TestCases.SampleGet@49c386c8]" name="sampleGetCall" is-config="true" duration-ms="2538" started-at="2020-05-12T16:30:46Z" finished-at="2020-05-12T16:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleGetCall -->
+        <test-method status="PASS" signature="verifyStatusCode()[pri:0, instance:com.traveltek.TestCases.SampleGet@49c386c8]" name="verifyStatusCode" duration-ms="20" started-at="2020-05-12T16:30:49Z" finished-at="2020-05-12T16:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStatusCode -->
+        <test-method status="PASS" signature="checkBody()[pri:0, instance:com.traveltek.TestCases.SampleGet@49c386c8]" name="checkBody" duration-ms="509" started-at="2020-05-12T16:30:49Z" finished-at="2020-05-12T16:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBody -->
+        <test-method status="PASS" signature="check_responseTime()[pri:0, instance:com.traveltek.TestCases.SampleGet@49c386c8]" name="check_responseTime" duration-ms="1" started-at="2020-05-12T16:30:49Z" finished-at="2020-05-12T16:30:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_responseTime -->
+      </class> <!-- com.traveltek.TestCases.SampleGet -->
+    </test> <!-- Niki Beckend Services -->
+  </suite> <!-- BackendTesting -->
+</testng-results>
