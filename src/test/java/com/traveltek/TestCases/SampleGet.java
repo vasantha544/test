@@ -38,6 +38,7 @@ public class SampleGet extends TestBase {
 		int page_value = jsonPathEvaluator.get("page");
 		soft.assertEquals(page_value, 1);
 		soft.assertAll();
+		System.out.println("vasantha");
 		}
 	@Test
 	public void check_responseTime() {
